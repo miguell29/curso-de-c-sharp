@@ -1,0 +1,8 @@
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\bin\Debug\ConsoleApp5-condicionales-anidadas.exe.config
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\bin\Debug\ConsoleApp5-condicionales-anidadas.exe
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\bin\Debug\ConsoleApp5-condicionales-anidadas.pdb
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\obj\Debug\ConsoleApp5-condicionales-anidadas.csproj.AssemblyReference.cache
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\obj\Debug\ConsoleApp5-condicionales-anidadas.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\obj\Debug\ConsoleApp5-condicionales-anidadas.csproj.CoreCompileInputs.cache
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\obj\Debug\ConsoleApp5-condicionales-anidadas.exe
+D:\cursos\quark\c#\ConsoleApp5-condicionales-anidadas\ConsoleApp5-condicionales-anidadas\obj\Debug\ConsoleApp5-condicionales-anidadas.pdb

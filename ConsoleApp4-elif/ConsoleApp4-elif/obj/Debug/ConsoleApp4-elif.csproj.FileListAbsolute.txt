@@ -1,0 +1,8 @@
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\bin\Debug\ConsoleApp4-elif.exe.config
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\bin\Debug\ConsoleApp4-elif.exe
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\bin\Debug\ConsoleApp4-elif.pdb
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\obj\Debug\ConsoleApp4-elif.csproj.AssemblyReference.cache
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\obj\Debug\ConsoleApp4-elif.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\obj\Debug\ConsoleApp4-elif.csproj.CoreCompileInputs.cache
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\obj\Debug\ConsoleApp4-elif.exe
+D:\cursos\quark\c#\ConsoleApp4-elif\ConsoleApp4-elif\obj\Debug\ConsoleApp4-elif.pdb

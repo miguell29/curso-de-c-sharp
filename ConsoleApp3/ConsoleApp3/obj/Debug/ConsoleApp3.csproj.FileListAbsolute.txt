@@ -1,0 +1,8 @@
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\cursos\quark\c#\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

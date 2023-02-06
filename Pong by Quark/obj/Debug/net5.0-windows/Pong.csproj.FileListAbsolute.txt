@@ -1,0 +1,54 @@
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.exe
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.deps.json
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.runtimeconfig.json
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.runtimeconfig.dev.json
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.dll
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\ref\Pong.dll
+C:\Users\Yisus\source\repos\Pong\bin\Debug\net5.0-windows\Pong.pdb
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.csproj.AssemblyReference.cache
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.Form1.resources
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.csproj.GenerateResource.cache
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.AssemblyInfoInputs.cache
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.AssemblyInfo.cs
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.dll
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\ref\Pong.dll
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.pdb
+C:\Users\Yisus\source\repos\Pong\obj\Debug\net5.0-windows\Pong.genruntimeconfig.cache
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.exe
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.deps.json
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.runtimeconfig.json
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.runtimeconfig.dev.json
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.dll
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\ref\Pong.dll
+C:\Users\Yisus\Desktop\Pong by Quark\bin\Debug\net5.0-windows\Pong.pdb
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.AssemblyReference.cache
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.Form1.resources
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.GenerateResource.cache
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.AssemblyInfoInputs.cache
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.AssemblyInfo.cs
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.dll
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\ref\Pong.dll
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.pdb
+C:\Users\Yisus\Desktop\Pong by Quark\obj\Debug\net5.0-windows\Pong.genruntimeconfig.cache
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.exe
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.deps.json
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.runtimeconfig.json
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.runtimeconfig.dev.json
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.dll
+D:\cursos\quark\c#\Pong by Quark\bin\Debug\net5.0-windows\Pong.pdb
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.AssemblyReference.cache
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.Form1.resources
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.GenerateResource.cache
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.AssemblyInfoInputs.cache
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.AssemblyInfo.cs
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.csproj.CoreCompileInputs.cache
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.dll
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\refint\Pong.dll
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.pdb
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\Pong.genruntimeconfig.cache
+D:\cursos\quark\c#\Pong by Quark\obj\Debug\net5.0-windows\ref\Pong.dll
