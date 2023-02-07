@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\bin\Debug\ConsoleApp8-estructura_repetitiva_for.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\bin\Debug\ConsoleApp8-estructura_repetitiva_for.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\bin\Debug\ConsoleApp8-estructura_repetitiva_for.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\obj\Debug\ConsoleApp8-estructura_repetitiva_for.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\obj\Debug\ConsoleApp8-estructura_repetitiva_for.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\obj\Debug\ConsoleApp8-estructura_repetitiva_for.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\obj\Debug\ConsoleApp8-estructura_repetitiva_for.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp8-estructura_repetitiva_for\ConsoleApp8-estructura_repetitiva_for\obj\Debug\ConsoleApp8-estructura_repetitiva_for.pdb
