@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp9-estructura_repetitiva_do_while", "ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while.csproj", "{8D6773AC-82DC-4BEB-88B3-6369BE58218C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D6773AC-82DC-4BEB-88B3-6369BE58218C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6773AC-82DC-4BEB-88B3-6369BE58218C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6773AC-82DC-4BEB-88B3-6369BE58218C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6773AC-82DC-4BEB-88B3-6369BE58218C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58EED7DF-E93B-48D0-9509-6407C82D6E3C}
+	EndGlobalSection
+EndGlobal

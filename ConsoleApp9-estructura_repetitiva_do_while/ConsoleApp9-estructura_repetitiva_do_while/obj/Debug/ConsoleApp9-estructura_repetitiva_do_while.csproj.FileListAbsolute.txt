@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\bin\Debug\ConsoleApp9-estructura_repetitiva_do_while.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\bin\Debug\ConsoleApp9-estructura_repetitiva_do_while.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\bin\Debug\ConsoleApp9-estructura_repetitiva_do_while.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\obj\Debug\ConsoleApp9-estructura_repetitiva_do_while.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\obj\Debug\ConsoleApp9-estructura_repetitiva_do_while.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\obj\Debug\ConsoleApp9-estructura_repetitiva_do_while.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\obj\Debug\ConsoleApp9-estructura_repetitiva_do_while.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp9-estructura_repetitiva_do_while\ConsoleApp9-estructura_repetitiva_do_while\obj\Debug\ConsoleApp9-estructura_repetitiva_do_while.pdb
