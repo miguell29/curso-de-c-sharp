@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\bin\Debug\ConsoleApp10-clases_y_objetos.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\bin\Debug\ConsoleApp10-clases_y_objetos.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\bin\Debug\ConsoleApp10-clases_y_objetos.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\obj\Debug\ConsoleApp10-clases_y_objetos.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\obj\Debug\ConsoleApp10-clases_y_objetos.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\obj\Debug\ConsoleApp10-clases_y_objetos.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\obj\Debug\ConsoleApp10-clases_y_objetos.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp10-clases_y_objetos\ConsoleApp10-clases_y_objetos\obj\Debug\ConsoleApp10-clases_y_objetos.pdb
