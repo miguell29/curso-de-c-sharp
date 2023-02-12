@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\bin\Debug\ConsoleApp12-vectores-mayor_menor.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\bin\Debug\ConsoleApp12-vectores-mayor_menor.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\bin\Debug\ConsoleApp12-vectores-mayor_menor.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\obj\Debug\ConsoleApp12-vectores-mayor_menor.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\obj\Debug\ConsoleApp12-vectores-mayor_menor.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\obj\Debug\ConsoleApp12-vectores-mayor_menor.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\obj\Debug\ConsoleApp12-vectores-mayor_menor.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores-mayor_menor\ConsoleApp12-vectores-mayor_menor\obj\Debug\ConsoleApp12-vectores-mayor_menor.pdb
