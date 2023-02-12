@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\bin\Debug\ConsoleApp11-vectores.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\bin\Debug\ConsoleApp11-vectores.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\bin\Debug\ConsoleApp11-vectores.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\obj\Debug\ConsoleApp11-vectores.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\obj\Debug\ConsoleApp11-vectores.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\obj\Debug\ConsoleApp11-vectores.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\obj\Debug\ConsoleApp11-vectores.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp11-vectores\ConsoleApp11-vectores\obj\Debug\ConsoleApp11-vectores.pdb
