@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\bin\Debug\ConsoleApp12-vectores_ordenamiento.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\bin\Debug\ConsoleApp12-vectores_ordenamiento.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\bin\Debug\ConsoleApp12-vectores_ordenamiento.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\obj\Debug\ConsoleApp12-vectores_ordenamiento.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\obj\Debug\ConsoleApp12-vectores_ordenamiento.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\obj\Debug\ConsoleApp12-vectores_ordenamiento.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\obj\Debug\ConsoleApp12-vectores_ordenamiento.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp12-vectores_ordenamiento\ConsoleApp12-vectores_ordenamiento\obj\Debug\ConsoleApp12-vectores_ordenamiento.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp12-vectores_paralelos_mayor_menor", "ConsoleApp12-vectores_paralelos_mayor_menor\ConsoleApp12-vectores_paralelos_mayor_menor.csproj", "{13F85D35-E4AF-4A95-8168-C074B4CC4D4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F85D35-E4AF-4A95-8168-C074B4CC4D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F85D35-E4AF-4A95-8168-C074B4CC4D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F85D35-E4AF-4A95-8168-C074B4CC4D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F85D35-E4AF-4A95-8168-C074B4CC4D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9A2B5DF-80D6-40BC-8C49-CC4131EFD9F6}
+	EndGlobalSection
+EndGlobal
