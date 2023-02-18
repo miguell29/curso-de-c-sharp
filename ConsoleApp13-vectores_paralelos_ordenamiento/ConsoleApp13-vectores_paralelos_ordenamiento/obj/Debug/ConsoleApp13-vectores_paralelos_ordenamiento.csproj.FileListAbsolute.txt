@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\obj\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\obj\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\obj\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\bin\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\bin\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\bin\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\obj\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp13-vectores_paralelos_ordenamiento\ConsoleApp13-vectores_paralelos_ordenamiento\obj\Debug\ConsoleApp13-vectores_paralelos_ordenamiento.pdb
