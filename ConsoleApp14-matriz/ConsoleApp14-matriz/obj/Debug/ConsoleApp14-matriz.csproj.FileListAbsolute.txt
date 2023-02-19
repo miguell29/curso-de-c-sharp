@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\bin\Debug\ConsoleApp14-matriz.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\bin\Debug\ConsoleApp14-matriz.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\bin\Debug\ConsoleApp14-matriz.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\obj\Debug\ConsoleApp14-matriz.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\obj\Debug\ConsoleApp14-matriz.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\obj\Debug\ConsoleApp14-matriz.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\obj\Debug\ConsoleApp14-matriz.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp14-matriz\ConsoleApp14-matriz\obj\Debug\ConsoleApp14-matriz.pdb
