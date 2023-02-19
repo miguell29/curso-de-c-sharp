@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\bin\Debug\ConsoleApp15-matrices_filas_y_columnas.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\bin\Debug\ConsoleApp15-matrices_filas_y_columnas.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\bin\Debug\ConsoleApp15-matrices_filas_y_columnas.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\obj\Debug\ConsoleApp15-matrices_filas_y_columnas.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\obj\Debug\ConsoleApp15-matrices_filas_y_columnas.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\obj\Debug\ConsoleApp15-matrices_filas_y_columnas.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\obj\Debug\ConsoleApp15-matrices_filas_y_columnas.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp15-matrices_filas_y_columnas\ConsoleApp15-matrices_filas_y_columnas\obj\Debug\ConsoleApp15-matrices_filas_y_columnas.pdb
