@@ -1,0 +1,8 @@
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\bin\Debug\ConsoleApp16-matrices_y_vectores_paralelos.exe.config
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\bin\Debug\ConsoleApp16-matrices_y_vectores_paralelos.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\bin\Debug\ConsoleApp16-matrices_y_vectores_paralelos.pdb
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\obj\Debug\ConsoleApp16-matrices_y_vectores_paralelos.csproj.AssemblyReference.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\obj\Debug\ConsoleApp16-matrices_y_vectores_paralelos.csproj.SuggestedBindingRedirects.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\obj\Debug\ConsoleApp16-matrices_y_vectores_paralelos.csproj.CoreCompileInputs.cache
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\obj\Debug\ConsoleApp16-matrices_y_vectores_paralelos.exe
+D:\cursos\quark\curso-de-c-sharp\ConsoleApp16-matrices_y_vectores_paralelos\ConsoleApp16-matrices_y_vectores_paralelos\obj\Debug\ConsoleApp16-matrices_y_vectores_paralelos.pdb
