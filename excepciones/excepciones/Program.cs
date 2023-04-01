@@ -6,6 +6,20 @@ using System.Threading.Tasks;
 
 namespace excepciones
 {
+    /*
+     Declarar una clase 'Cliente' que represente un cliente de un banco. Definir las siguientes propiedades y métodos:
+
+Cliente		
+    Propiedades
+        Nombre
+        Monto
+    métodos
+        constructor
+        Depositar
+        Extraer
+        Imprimir
+Generar una excepción si se intenta extraer más dinero del que tiene la propiedad 'Monto'.
+     */
     internal class Cliente
     {
         public string Nombre { get; set; }

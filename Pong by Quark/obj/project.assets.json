@@ -8,19 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\miguel\\.nuget\\packages\\": {}
+    "C:\\Users\\miguel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\cursos\\quark\\c#\\Pong by Quark\\Pong.csproj",
+      "projectUniqueName": "D:\\cursos\\quark\\curso-de-c-sharp\\Pong by Quark\\Pong.csproj",
       "projectName": "Pong",
-      "projectPath": "D:\\cursos\\quark\\c#\\Pong by Quark\\Pong.csproj",
+      "projectPath": "D:\\cursos\\quark\\curso-de-c-sharp\\Pong by Quark\\Pong.csproj",
       "packagesPath": "C:\\Users\\miguel\\.nuget\\packages\\",
-      "outputPath": "D:\\cursos\\quark\\c#\\Pong by Quark\\obj\\",
+      "outputPath": "D:\\cursos\\quark\\curso-de-c-sharp\\Pong by Quark\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\miguel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

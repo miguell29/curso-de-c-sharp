@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aLj1/8LZiqVlt3V4aB20sBj/gQ7Z81DjNtfSyXI225b1/wVfrPLqdRDKXF7zbfPsqDEmcPwR+ZNGE9/aZFCpCQ==",
+  "dgSpecHash": "/Xr9oCjWPX221kkag2/pA208pMRsGBXVEr2a+MBLeLUT4FBlSNAkOlPkorHTxG3ZkVO2PYc6jHHvUCHWY5BrGw==",
   "success": true,
-  "projectFilePath": "D:\\cursos\\quark\\c#\\Pong by Quark\\Pong.csproj",
+  "projectFilePath": "D:\\cursos\\quark\\curso-de-c-sharp\\Pong by Quark\\Pong.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
